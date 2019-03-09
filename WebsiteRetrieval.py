@@ -29,5 +29,4 @@ def f():
     my_df.to_csv('pubsonline_informs_opensource.csv', index=False, header=False)
     return (my_df)
 
-
 f()
